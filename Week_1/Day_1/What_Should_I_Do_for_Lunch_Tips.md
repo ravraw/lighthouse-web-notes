@@ -9,9 +9,4 @@ Work on your code iteratively – that means in small pieces.
 
 To help you figure out how to use `hungry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
 
-```Javascript
- function whatToDoForLunch(hungry, availableTime) { if (!hungry) { console.log(`I'm not hungry and I have ${availableTime} minutes for lunch`); } else { if (availableTime >= 30) { console.log(`I'm hungry and I have ${availableTime} minutes for lunch`); } else if (availableTime >= 20) { console.log(`I'm hungry and I have ${availableTime} minutes for lunch.`); } else { console.log(`I'm hungry and I have ${availableTime} minutes for lunch`); } } }
-
-
-
-```
+function whatToDoForLunch(hungry, availableTime) { if (!hungry) { console.log(`I'm not hungry and I have ${availableTime} minutes for lunch`); } else { if (availableTime >= 30) { console.log(`I'm hungry and I have ${availableTime} minutes for lunch`); } else if (availableTime >= 20) { console.log(`I'm hungry and I have ${availableTime} minutes for lunch.`); } else { console.log(`I'm hungry and I have ${availableTime} minutes for lunch`); } } }
