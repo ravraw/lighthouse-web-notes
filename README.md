@@ -9,3 +9,8 @@
 This repository contains all of the notes taken by Ravindra for the Lighthouse Labs Web Development Bootcamp.
 
 [Ravindra -- ravraw](https://github.com/ravraw)
+
+# Table of contents
+
+- Week 1
+  - Day 1
