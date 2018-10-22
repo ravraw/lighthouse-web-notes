@@ -11,4 +11,7 @@ To help you figure out how to use `hungry` and `availableTime` inside your funct
 
 ```Javascript
  function whatToDoForLunch(hungry, availableTime) { if (!hungry) { console.log(`I'm not hungry and I have ${availableTime} minutes for lunch`); } else { if (availableTime >= 30) { console.log(`I'm hungry and I have ${availableTime} minutes for lunch`); } else if (availableTime >= 20) { console.log(`I'm hungry and I have ${availableTime} minutes for lunch.`); } else { console.log(`I'm hungry and I have ${availableTime} minutes for lunch`); } } }
+
+
+
 ```
